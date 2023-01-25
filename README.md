@@ -8,7 +8,7 @@
 
 * 📖 Pursuing **MSc** in **[REDACTED]** @**[REDACTED]**
 
-* 🎓 Researching on **InfoSec**, **Malware** and **Automation**
+* 🎓 Researching on **InfoSec** & **Malware**
 
 * 💡 Open to collaborating on projects and potential business ideas.
 
