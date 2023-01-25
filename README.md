@@ -10,6 +10,6 @@
 
 * 🎓 Researching on **InfoSec** & **Malware**
 
-* 💡 Open to collaborating on projects and potential business ideas.
+* 💡 Open to collaborating on projects and potential business ideas
 
 * 💻 Currently working on **Blockchain Investigation Suite**
