@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arb1trage&theme=chartreuse-dark&show_icons=true)
 
-* 📖 Pursuing **MSc** in [REDACTED] @[REDACTED]
+* 📖 Pursuing **MSc** in **[REDACTED]** @**[REDACTED]**
 
 * 🎓 Researching on **InfoSec**, **Malware** and **Automation**
 
