@@ -8,7 +8,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=arb1trage&cc=000&tc=fff&ic=7fff00&bc=0000">
 </a>
 
-* 📖 Pursuing **MSc** in **[REDACTED]** @**[REDACTED]**
+* 📖 **MSc** in Cybersecurity @**[REDACTED]**
 
 * 🎓 Researching on **IT Security** & **Malware**
 
